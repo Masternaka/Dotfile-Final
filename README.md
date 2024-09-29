@@ -1,5 +1,5 @@
 # Dotfile-Final
-Alacritty = .alacritty.toml
+Alacritty = Config dans le dossier Alacritty, avec Meslo Nerd Font (installer de Arch Repo) et avec Starship (Gruvbox)
 
 ZSH = .zshrc
 
