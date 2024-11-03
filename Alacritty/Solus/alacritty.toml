@@ -49,4 +49,6 @@ key = "F11"
 history = 50000
 
 [window]
+dimensions = { columns = 130, lines = 35 }
 opacity = 0.8
+# blur = true
