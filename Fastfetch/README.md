@@ -1,0 +1,1 @@
+Configuration de Fastfetch préféré sont les 2, 6, 7 et 10.
